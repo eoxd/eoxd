@@ -11,7 +11,7 @@
 -----
 
 ```py
-class Attributes(09bt):
+class Attributes(5mko):
     def __init__(self) -> None:
         super().__init__()
         
