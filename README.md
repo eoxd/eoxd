@@ -1,17 +1,17 @@
 # I like to reverse engineer and analyze malware.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&width=800&lines=Hi,+I'm+5mko,+I'm+a+reverse+engineer+/+malware+analyst">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&width=800&lines=Hi,+I'm+mko,+I'm+a+reverse+engineer+/+malware+analyst">
 </p>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eacsys&theme=discord"</a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eoxd&theme=discord"</a></p>
 
 
 -----
 
 ```py
-class Attributes(5mko):
+class Attributes(mko):
     def __init__(self) -> None:
         super().__init__()
         
@@ -36,11 +36,11 @@ class Attributes(5mko):
 <p align="center">⭐My Stats</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eacsys&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=eoxd&theme=dark"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacsys&layout=compact&langs_count=8&theme=nightowl"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoxd&layout=compact&langs_count=8&theme=nightowl"/>
 </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eacsys&theme=modern-lilac"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&theme=modern-lilac"/>
 </p>
   <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
@@ -56,7 +56,7 @@ Tools
 -----
 <p align="center"> 
   Visits:<br>
-  <img src="https://komarev.com/ghpvc/?username=eacsys&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=eoxd&style=for-the-badge"/>
 </p>
 
 
