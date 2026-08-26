@@ -1,7 +1,7 @@
 # I like to reverse engineer and analyze malware.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&width=800&lines=Hi,+I'm+mko,+I'm+a+reverse+engineer+/+malware+analyst">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&width=800&lines=Hi,+I'm+mko+—+a+reverse+engineer+%2F+malware+analyst
 </p>
 
 
