@@ -57,8 +57,9 @@ Currently learning C++ and improving my understanding of reverse engineering and
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&bg_color=0D1117&color=C9D1D9&line=B627B3&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=B627B3&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
+```
 
 ---
 
