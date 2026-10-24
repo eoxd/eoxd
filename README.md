@@ -1,68 +1,69 @@
-# Reverse Engineer & Malware Analyst
+# `mko` — Reverse Engineer & Malware Analyst
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&width=800&lines=Hi,+I'm+mko+%7C+Reverse+Engineer+%2F+Malware+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=B627B3&center=true&vCenter=true&width=650&lines=Reverse+Engineering;Malware+Analysis;Learning+C%2B%2B;Automation+%26+Low-Level+Programming" alt="Typing animation" />
 </p>
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eoxd&theme=discord" />
+  <img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-B627B3?style=for-the-badge" alt="Focus: Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Interest-Malware%20Analysis-7B2CBF?style=for-the-badge" alt="Interest: Malware Analysis" />
+  <img src="https://komarev.com/ghpvc/?username=eoxd&style=for-the-badge&color=B627B3&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
+---
 
------
+## `whoami`
 
-```py
-class Attributes(mko):
-    def __init__(self) -> None:
-        super().__init__()
-        
-    @staticmethod
-    def contact() -> str:
-        return "No contact information provided."
+```python
+class Mko:
+    def __init__(self):
+        self.role = "Aspiring Reverse Engineer"
+        self.interests = [
+            "Reverse Engineering",
+            "Malware Analysis",
+            "Automation",
+            "Low-Level Programming",
+        ]
+        self.learning = ["C++"]
+        self.languages = ["Dutch", "English"]
+        self.environment = ["VS Code"]
+```
 
-    @staticmethod
-    def life() -> tuple:
-        age = None
-        langs = ['Dutch', 'English']
-        return langs, age
+I'm interested in understanding how software works under the hood, analyzing binaries, and exploring low-level programming.
 
-    @staticmethod
-    def coding() -> tuple:
-        learning = "C++"
-        specialities = 'automation'
-        environment = 'vscode'
-        return learning, specialities, environment
- ```
+Currently learning C++ and improving my understanding of reverse engineering and malware analysis.
 
-<p align="center">⭐My Stats</p>
+## `tech_stack`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eoxd&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vscode&theme=dark" alt="C++, C#, and Visual Studio Code" />
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoxd&layout=compact&langs_count=8&theme=nightowl"/>
-</p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&theme=modern-lilac"/>
-</p>
-  <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Exploring-B627B3?style=flat-square" alt="Reverse engineering" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-Exploring-7B2CBF?style=flat-square" alt="Malware analysis" />
+  <img src="https://img.shields.io/badge/Automation-Interested-6C3483?style=flat-square" alt="Automation" />
 </p>
 
- 
------ 
-Tools
+## `github_stats`
 
-![](https://skillicons.dev/icons?i=cpp,cs,) (*Learning*)
-
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
------
-<p align="center"> 
-  Visits:<br>
-  <img src="https://komarev.com/ghpvc/?username=eoxd&style=for-the-badge"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eoxd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B627B3&icon_color=B627B3&text_color=C9D1D9" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoxd&layout=compact&hide_border=true&bg_color=0D1117&title_color=B627B3&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=eoxd&hide_border=true&background=0D1117&ring=B627B3&fire=B627B3&currStreakLabel=B627B3&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=808080" alt="GitHub contribution streak" />
+</p>
 
-* If you see this have a nice day :p
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&bg_color=0D1117&color=C9D1D9&line=B627B3&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
 
+---
 
-![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<p align="center">
+  <i>Still learning. Always investigating.</i>
+  <br />
+  <sub>If you made it this far, have a nice day :p</sub>
+</p>
