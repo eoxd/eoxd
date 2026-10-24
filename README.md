@@ -1,13 +1,16 @@
-# `mko` — Reverse Engineer & Malware Analyst
+# `mko` | Reverse Engineer & Malware Analyst
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=B627B3&center=true&vCenter=true&width=650&lines=Reverse+Engineering;Malware+Analysis;Learning+C%2B%2B;Automation+%26+Low-Level+Programming" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=B627B3&center=true&vCenter=true&width=750&lines=Reverse+Engineering;Malware+Analysis;Learning+C%2B%2B;Automation+%26+Low-Level+Programming" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-B627B3?style=for-the-badge" alt="Focus: Reverse Engineering" />
-  <img src="https://img.shields.io/badge/Interest-Malware%20Analysis-7B2CBF?style=for-the-badge" alt="Interest: Malware Analysis" />
-  <img src="https://komarev.com/ghpvc/?username=eoxd&style=for-the-badge&color=B627B3&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FOCUS-REVERSE%20ENGINEERING-B627B3?style=for-the-badge&labelColor=0D1117" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/INTEREST-MALWARE%20ANALYSIS-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Malware Analysis" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eoxd&style=flat-square&color=B627B3&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -29,9 +32,9 @@ class Mko:
         self.environment = ["VS Code"]
 ```
 
-I'm interested in understanding how software works under the hood, analyzing binaries, and exploring low-level programming.
+Interested in understanding how software works under the hood, analyzing binaries, and exploring low-level programming.
 
-Currently learning C++ and improving my understanding of reverse engineering and malware analysis.
+Currently learning C++ and developing my skills in reverse engineering and malware analysis.
 
 ## `tech_stack`
 
@@ -40,9 +43,9 @@ Currently learning C++ and improving my understanding of reverse engineering and
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-Exploring-B627B3?style=flat-square" alt="Reverse engineering" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-Exploring-7B2CBF?style=flat-square" alt="Malware analysis" />
-  <img src="https://img.shields.io/badge/Automation-Interested-6C3483?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Learning-B627B3?style=flat-square&logo=cplusplus&logoColor=white" alt="Learning C++" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Interested-8A2BE2?style=flat-square" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-Interested-6A0DAD?style=flat-square" alt="Malware Analysis" />
 </p>
 
 ## `github_stats`
@@ -53,18 +56,35 @@ Currently learning C++ and improving my understanding of reverse engineering and
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=eoxd&hide_border=true&background=0D1117&ring=B627B3&fire=B627B3&currStreakLabel=B627B3&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=808080" alt="GitHub contribution streak" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=eoxd&hide_border=true&background=0D1117&ring=B627B3&fire=B627B3&currStreakLabel=B627B3&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=808080" alt="GitHub contribution streak" />
 </p>
 
+## `activity_graph`
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=B627B3&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eoxd&bg_color=0D1117&color=C9D1D9&line=B627B3&point=FFFFFF&area=true&area_color=B627B3&title_color=B627B3&hide_border=true" alt="mko's GitHub activity graph" />
+  </a>
 </p>
-```
+
+---
+
+## `currently_focusing_on`
+
+- Reverse engineering fundamentals
+- Learning C++
+- Understanding binary behavior
+- Automation and scripting
+- Malware analysis concepts
 
 ---
 
 <p align="center">
-  <i>Still learning. Always investigating.</i>
-  <br />
-  <sub>If you made it this far, have a nice day :p</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:B627B3&height=120&section=footer" width="100%" alt="Purple wave footer" />
+</p>
+
+<p align="center">
+  <code>Still learning. Always investigating.</code>
+  <br /><br />
+  <i>If you're reading this, have a nice day :p</i>
 </p>
