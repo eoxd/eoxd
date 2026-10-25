@@ -21,9 +21,6 @@ class Mko:
             "Reverse Engineering",
             "Malware Development",
             "Malware Analysis",
-            "Binary Analysis",
-            "Automation",
-            "Low-Level Programming",
         ]
 
         self.learning = ["C++"]
